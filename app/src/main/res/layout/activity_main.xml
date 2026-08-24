@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/main"            <!-- ✅ THÊM DÒNG NÀY VÀO -->
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E8F5E9"
+    android:padding="20dp"
+    android:gravity="center">
+
+<LinearLayout> xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:background="#E8F5E9"
+android:padding="20dp"
+android:gravity="center">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="🎮 GAME GHÉP HÌNH NHỚ"
+    android:textSize="28sp"
+    android:textStyle="bold"
+    android:textColor="#2E7D32"
+    android:layout_marginBottom="40dp"/>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Chọn cấp độ chơi:"
+    android:textSize="18sp"
+    android:textColor="#333333"
+    android:layout_marginBottom="20dp"/>
+
+<Button
+    android:id="@+id/btnDe"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:text="🟢 Dễ (4×3)"
+    android:backgroundTint="#4CAF50"
+    android:textColor="#FFFFFF"
+    android:textSize="18sp"
+    android:layout_marginBottom="10dp" layout_width=""/>
+
+<Button
+    android:id="@+id/btnTrungBinh"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:text="🟡 Trung bình (4×4)"
+    android:backgroundTint="#FFC107"
+    android:textColor="#000000"
+    android:textSize="18sp"
+    android:layout_marginBottom="10dp"/>
+
+<Button
+    android:id="@+id/btnKho"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:text="🔴 Khó (5×4)"
+    android:backgroundTint="#F44336"
+    android:textColor="#FFFFFF"
+    android:textSize="18sp"
+    android:layout_marginBottom="20dp"/>
+
+<Button
+    android:id="@+id/btnLichSu"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:text="Xem lịch sử  Điểm cao"
+    android:backgroundTint="#2196F3"
+    android:textColor="#FFFFFF"
+    android:textSize="16sp"/>
+
+</LinearLayout>
+    </resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FFF8E1"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginBottom="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="⏱ Thời gian: "
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/tvThoiGian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0 giây"
+                android:textSize="16sp"
+                android:textColor="#D84315"
+                android:textStyle="bold"/>
+
+            <View
+                android:layout_width="2dp"
+                android:layout_height="30dp"
+                android:background="#CCCCCC"
+                android:layout_marginHorizontal="15dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🔄 Lượt: "
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/tvLuot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textSize="16sp"
+                android:textColor="#1565C0"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <GridView
+            android:id="@+id/gridThẻ"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:horizontalSpacing="5dp"
+            android:verticalSpacing="5dp"/>
+
+        <Button
+            android:id="@+id/btnQuayLai"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="⬅ Quay lại"
+            android:backgroundTint="#78909C"
+            android:textColor="#FFFFFF"/>
+
+    </LinearLayout>
+</resources>

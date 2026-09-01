@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+</resources>
+    <?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="20dp">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="ĐĂNG NHẬP"
+    android:textSize="24sp"
+    android:textStyle="bold"
+    android:layout_gravity="center"
+    android:layout_marginBottom="30dp"/>
+
+<EditText
+    android:id="@+id/edtTenTK"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Tên tài khoản"/>
+
+<EditText
+    android:id="@+id/edtMatKhau"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Mật khẩu"
+    android:inputType="textPassword"/>
+
+<Button
+    android:id="@+id/btnDangNhap"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Đăng nhập"
+    android:layout_marginTop="20dp"/>
+
+<TextView
+    android:id="@+id/tvDangKy"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Chưa có tài khoản? Đăng ký"
+    android:layout_gravity="center"
+    android:layout_marginTop="15dp"/>
+
+</LinearLayout>

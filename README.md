@@ -13,5 +13,6 @@ BÁO CÁO KẾT THÚC MÔN LẬP TRÌNH THIẾT BỊ DI ĐỘNG
 https://docs.google.com/document/d/1laYqlIsFx20Q9RJsoi4Cmh1PSlzVon3mkbhbrLElLiI/edit?usp=sharing
 
 </i>
-</p><img width="1600" height="2848" alt="image" src="https://github.com/user-attachments/assets/755efc93-9677-4d9f-a006-c165394a196d" />
+</p><<img width="1600" height="2848" alt="image" src="https://github.com/user-attachments/assets/690685e9-3bc4-4197-9017-d799e906b10c" />
+/>
 ![Uploading image.png…]()

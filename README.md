@@ -27,29 +27,28 @@
 
 
 
+
+
+<h2> CHƯƠNG 2: HÌNH ẢNH GIAO DIỆN & GIẢI THÍCH CHỨC NĂNG</h2>
+<h3>1. 📱Màn hình chào & Biểu tượng ứng dụng, tên Memory Match, hướng dẫn chơi</h3>
 <hr>
 <table border="1" width="100%" cellpadding="8" style="border-collapse: collapse;">
   <thead>
  </i>
 <img width="395" height="577" alt="image" src="https://github.com/user-attachments/assets/6e52de22-50d0-4eb3-a597-29f5b7d24256" />   
 
-
-
-
-    
+<li><b>Màn hình Bắt đầu: Hiển thị tên ứng dụng, hướng dẫn ngắn gọn cách chơi; khi nhấn nút PLAY NOW sẽ chuyển sang màn hình chơi chính, khởi tạo bộ thẻ mới, đặt lại điểm và số lượt về 0.</li>
+<h3>2. Màn hình chơi & Khung Điểm, khung Lượt, lưới thẻ bài lật tìm cặp giống nhau</h3>  
 </i>
 <img width="286" height="507" alt="image" src="https://github.com/user-attachments/assets/a61c5a21-b2e4-4408-9aa9-016cbd9663c0" />
 
+<li><b>Chơi & Tính điểm: Lật thẻ xem hình; khi mở 2 thẻ giống nhau → cộng điểm, khóa cố định; khi khác nhau → đóng lại; mỗi lần mở 2 thẻ đều tăng số lượt chơi; cập nhật liên tục khung Điểm và Lượt trên màn hình.</li>
 
-
-
-
-
-
+<h3>3. Kết thúc & lựa chọn — Tự phát hiện khi hoàn thành tất cả cặp, hiển thị màn hình kết quả; cho phép chơi lại ván mới hoặc quay về trang chủ.</h3>
 </i>
 <img width="406" height="662" alt="image" src="https://github.com/user-attachments/assets/4a12ee9f-988c-4c0a-87d1-f65f9f5f450b" />
 
-
+<li><b>Kết thúc & Điều hướng: Khi tìm hết tất cả cặp → tự động chuyển màn hình kết quả hiển thị tổng điểm và tổng lượt; nhấn CHƠI LẠI để xáo thẻ, đặt lại số liệu chơi tiếp; nhấn Trang chủ để quay về màn hình bắt đầu.</li>
 
 
 

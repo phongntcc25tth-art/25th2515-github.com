@@ -18,8 +18,9 @@
   <thead>
     
 </i>
-<img width="1600" height="2848" alt="image" src="https://github.com/user-attachments/assets/ef199ebf-3617-4f81-b6b9-eda586b5501f" />
-
+<img width="940" height="1673" alt="image" src="https://github.com/user-attachments/assets/37a2825e-c04a-4814-8456-d9090f1c6cf8" />
+</i>
+<img width="395" height="577" alt="image" src="https://github.com/user-attachments/assets/6e52de22-50d0-4eb3-a597-29f5b7d24256" />
 
 
 

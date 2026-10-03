@@ -12,6 +12,20 @@
   <li><b>Trường:</b> Đại học Nha Trang (NTU)</li>
   <li><b>Nền tảng phát triển:</b> Android Studio, Ngôn ngữ Java, Cơ sở dữ liệu SQLite</li>
 </ul>
+<h2>📖 CHƯƠNG 1: GIỚI THIỆU & MỤC TIÊU ĐỀ TÀI</h2>
+</ul>
+<p>Ứng dụng <b> "Game Ghép Hình Nhớ (Memory Match)" được xây dựng trên nền tảng hệ điều hành Android, hướng tới việc tạo ra một trò chơi giải trí đơn giản nhưng hiệu quả, giúp người dùng rèn luyện và cải thiện khả năng ghi nhớ thông qua việc lật thẻ và tìm các cặp hình giống nhau.</p>
+<p>Trong cuộc sống hiện đại <b>, việc rèn luyện trí nhớ là vô cùng cần thiết ở mọi lứa tuổi. Trò chơi ra đời với giao diện thân thiện, hình ảnh sinh động, thao tác dễ sử dụng, phù hợp với mọi đối tượng từ trẻ em đến người lớn. Ứng dụng hoạt động hoàn toàn trên thiết bị di động, không yêu cầu kết nối mạng, đảm bảo người dùng có thể chơi bất kỳ lúc nào, bất kỳ đâu.</p>
+<h3>Mục tiêu chính:</h3>
+<li><b>Rèn luyện và cải thiện trí nhớ:</b> Thiết kế cơ chế chơi đơn giản — lật thẻ, ghi nhớ vị trí và tìm cặp giống nhau — giúp người dùng luyện tập khả năng ghi nhớ một cách tự nhiên và thú vị.</li>
+<li><b>Quản lý trạng thái trò chơi:</b> Theo dõi chính xác số lượt chơi, số điểm đạt được, cập nhật ngay lập tức sau mỗi lật thẻ, tạo sự công bằng và khuyến khích người chơi cố gắng hơn.</li>
+<li><b>Lưu trữ điểm cao:</b> Sử dụng cơ chế lưu trữ trên thiết bị, ghi lại điểm số cao nhất mà người dùng đạt được, tạo động lực cạnh tranh và cải thiện thành tích trong các lần chơi sau.</li>
+<li><b>Giao diện trực quan, sinh động:</b> Sử dụng hình ảnh thân thuộc (trái cây, biểu tượng dễ thương), phối màu hài hòa, phân biệt rõ ràng mặt sau và mặt trước thẻ, tạo cảm g  iác dễ chịu, thu hút người chơi.</li>
+<li><b>Hoạt động hoàn toàn ngoại tuyến:</b> Ứng dụng không yêu cầu kết nối internet, dữ liệu được lưu trữ cục bộ trên thiết bị, đảm bảo tính riêng tư và tiết kiệm tài nguyên mạng.</li>
+</ul>
+<hr>
+
+
 
 <hr>
 <table border="1" width="100%" cellpadding="8" style="border-collapse: collapse;">

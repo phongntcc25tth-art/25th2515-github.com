@@ -23,7 +23,8 @@
 <img width="940" height="1673" alt="image" src="https://github.com/user-attachments/assets/37a2825e-c04a-4814-8456-d9090f1c6cf8" />
 
 </i>
-<img width="407" height="692" alt="image" src="https://github.com/user-attachments/assets/10cf209b-8fb4-47e5-8040-06039483b900" />
+<img width="406" height="662" alt="image" src="https://github.com/user-attachments/assets/4a12ee9f-988c-4c0a-87d1-f65f9f5f450b" />
+
 
 
 
